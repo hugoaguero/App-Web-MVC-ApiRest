@@ -16,6 +16,21 @@ npm i express
 npm i ejs
 ```
 
+## Body parser
+```
+npm i body-parser
+```
+
+## Nodemon (dev dependency)
+```
+npm i nodemon -D
+```
+
+## Run Server (dev)
+```
+npm run dev
+```
+
 ## Run Server
 ```
 npm start
