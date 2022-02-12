@@ -26,6 +26,11 @@ npm i body-parser
 npm i nodemon -D
 ```
 
+## Run Server (dev)
+```
+npm run dev
+```
+
 ## Run Server
 ```
 npm start
