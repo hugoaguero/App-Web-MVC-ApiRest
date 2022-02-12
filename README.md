@@ -16,6 +16,11 @@ npm i express
 npm i ejs
 ```
 
+## Body parser
+```
+npm i body-parser
+```
+
 ## Run Server
 ```
 npm start
