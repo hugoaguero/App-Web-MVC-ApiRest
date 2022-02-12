@@ -1,9 +1,9 @@
 # App-Web-MVC-ApiRest
 Creación de una App Web MVC con NodeJs y ExpressJs
 
-## Project setup
+## Project setup - Create
 ```
-npm install
+npm init -y
 ```
 
 ## Express
